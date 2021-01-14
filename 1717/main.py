@@ -1,6 +1,9 @@
 #1717
 #https://www.acmicpc.net/problem/1717
 
+import sys
+input = sys.stdin.readline
+sys.setrecursionlimit(2000000)
 
 def find_parent(parent ,x):
     if parent[x]!=x:
