@@ -1,10 +1,11 @@
 
 
 from collections import deque
-
+import sys
 n , m = map(int,input().split())
 visit = [0]*(n+1)
 graph =[[] for _ in range(n+1)]
+input = sys.stdin.readline
 
 for i in range(m):
     a,b = map(int,input().split())
