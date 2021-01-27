@@ -9,7 +9,6 @@ a=' '+a
 b=' '+b
 dp =[[0]*(len(b)) for _ in range(len(a))]
 
-
 for i in range(1,len(a)):
     for j in range(1,len(b)):
         if a[i] == b[j]:
