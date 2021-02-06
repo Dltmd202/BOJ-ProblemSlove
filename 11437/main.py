@@ -1,13 +1,14 @@
 import sys
-sys.setrecursionlimit(int(1e9))
 
+sys.setrecursionlimit(int(1e5))
 input = sys.stdin.readline
-n = int(input())
+LOG = 21 # 2*20 = 1,000,000
 
+n = int(input())
+parent = [[0] * LOG for _ in range(n + 1)]
+d = [0] * (n + 1)
+c = [0] * (n + 1)
 graph = [[] for _ in range(n + 1)]
-visit = [False] * (n + 1)
-depth = [0] * (n + 1)
-parent = [0] * (n + 1)
 
 for _ in range(n - 1):
     a, b = map(int, input().split())
@@ -15,31 +16,35 @@ for _ in range(n - 1):
     graph[b].append(a)
 
 
-def dfs(x, d):
-    visit[x] = True
-    depth[x] = d
-
-    for y  in graph[x]:
-        if visit[y]:
+def dfs(x, depth):
+    c[x] = True
+    d[x] = depth
+    for y in graph[x]:
+        if c[y]:
             continue
-        parent[y] = x
-        dfs(y, d + 1)
+        parent[y][0] = x
+        dfs(x, depth + 1)
+
+
+def set_parent():
+    dfs(1, 0)
+    for i in range(1, LOG):
+        for j in range(1, n + 1):
+            graph[j][i] = parent[parent[j][i - 1]][i - 1]
 
 
 def lca(a, b):
-    while depth[a] != depth[b]:
-        if depth[a] > depth[b]:
-            a = parent[a]
-        else:
-            b = parent[b]
-    while a != b:
-        a = parent[a]
-        b = parent[b]
-    return a
+    if d[a] > d[b]:
+        a, b = b, a
+    for i in range(LOG - 1, -1, -1):
+        if d[b] - d[a] >= (1 << i):
+            b = parent[b][i]
+    return parent[a][0]
 
+set_parent()
 
-dfs(1, 0)
 m = int(input())
+
 for i in range(m):
-    a, b = map(int,input().split())
+    a, b = map(int, input().split())
     print(lca(a, b))
