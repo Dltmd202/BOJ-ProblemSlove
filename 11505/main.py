@@ -39,7 +39,7 @@ for i in range(m+k):
     print(tree[1:])
     if a == 1:
         if data[b] == 0:
-            data[b] = c
+            data[b] = ca
             update(b ,c)
         else:
             update(b , (c/ data[b]))

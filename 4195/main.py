@@ -17,8 +17,6 @@ def union_parent(parent, a, b, cnt):
         cnt[a] += cnt[b]
 
 
-
-
 for tb in range(int(input())):
     f = int(input())
     parents = {}
