@@ -33,4 +33,5 @@ if cnt:
 if result:
     print(answer)
 else:
+
     print(-1)
