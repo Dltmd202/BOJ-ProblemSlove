@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(int(1e6))
 
 for tc in range(int(input())):
     n = int(input())

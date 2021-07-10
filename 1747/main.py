@@ -1,7 +1,7 @@
 import math
 MAX = int(1e6 + 3002)
 n = int(input())
-prime = [True] * (MAX + 1)
+prime = [False, False] + [True] * MAX
 
 for i in range(2, int(math.sqrt(MAX)) + 1):
     if prime[i]:

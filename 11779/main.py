@@ -33,6 +33,7 @@ def dijkstra(start):
                 heapq.heappush(q, (cost, will, way + [will]))
     return answer
 
+
 answer = dijkstra(start)
 print(dist[end])
 print(len((answer)))

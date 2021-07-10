@@ -1,6 +1,7 @@
 import sys
 input = sys.stdin.readline
 
+
 def find_parents(parents, x):
     if parents[x] != x:
         parents[x] = find_parents(parents, parents[x])
@@ -17,11 +18,14 @@ def union_parents(parents, a, b):
 
 
 n, m, t = map(int, input().split())
+
+
 edges = []
 
 for i in range(m):
     now, will, cost = map(int, input().split())
     edges.append([cost, now, will])
+
 
 edges.sort()
 parents = [i for i in range(n + 1)]
