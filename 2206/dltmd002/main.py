@@ -2,7 +2,7 @@ import sys
 from collections import deque
 input = sys.stdin.readline
 sys.setrecursionlimit(int(1e9))
-n, m = map(int,input().split())
+n, m = map(int, input().split())
 visit = [[[0]*2 for _ in range(m+1)] for _ in range(n+1)]
 distance = [[-1]*(m+1) for _ in range(n+1)]
 dy = [0, -1, 0, 1]
@@ -32,5 +32,6 @@ def bfs():
                     visit[ny][nx][c] = visit[y][x][c] + 1
                     q.append((ny, nx, c))
     return -1
+
 
 print(bfs())
