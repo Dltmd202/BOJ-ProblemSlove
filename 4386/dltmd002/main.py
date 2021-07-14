@@ -1,9 +1,11 @@
 from math import sqrt
 import sys
+import heapq
 input = sys.stdin.readline
 
 n = int(input())
-parent = [i for i in range(n + 1)]
+parent = [i for i in range(n)]
+q = []
 
 
 def find(x):
@@ -27,16 +29,15 @@ edges = dict()
 for i in range(len(stars)):
     for j in range(i + 1, len(stars)):
         a, b = stars[i], stars[j]
-        dist = round(sqrt((a[0] - b[0])**2 + (a[1] - b[1])**2), 2)
-        edges[dist] = (i, j)
+        dist = round(sqrt((a[0] - b[0])**2 + (a[1] - b[1])**2), 5)
+        heapq.heappush(q, (dist, (i, j)))
 
-edges = sorted(edges.items())
-print(edges)
+
 res = 0.
-for edge in edges:
-    dist, (a, b) = edge
+while q:
+    dist, (a, b) = heapq.heappop(q)
     if find(a) != find(b):
         union(a, b)
         res += dist
 
-print(res)
+print(round(res, 2))
