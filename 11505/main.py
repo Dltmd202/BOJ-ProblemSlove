@@ -1,37 +1,40 @@
-
-
+import sys
+from math import *
+input = sys.stdin.readline
 n, m, k = map(int, input().split())
+h = ceil(log2(n)) + 1
 data = [1] * (n + 1)
-tree = [1] * (n + 1)
+tree = [1] * (1 << h)
 
 
-def update(i, origin, dif):
-    while i <= n:
-        if not origin:
-            tree[i] /= origin
-            tree[i] *= dif
-        else:
-
-        i += (i & -i)
-
-
-def prefix_mul(i):
-    result = 1
-    while i > 0:
-        result *= tree[i]
-        i -= (i & -i)
-    return result
+def update(node, start, end, idx, val):
+    if start > idx or idx > end:
+        return
+    if start == end:
+        tree[node] = val
+        return
+    mid = (start + end) // 2
+    update(node * 2, start, mid, idx, val)
+    update(node * 2 + 1, mid + 1, end, idx, val)
+    tree[node] = (tree[node * 2] * tree[node * 2 + 1]) % 1000000007
 
 
-for i in range(1, n + 1):
+def query(node, start, end, left, right):
+    if start > right or left > end:
+        return 1
+    if left <= start and end <= right:
+        return tree[node]
+    mid = (start + end) // 2
+    return (query(node * 2, start, mid, left, right) * query(node * 2 + 1, mid + 1, end, left, right)) % 1000000007
+
+
+for i in range(n):
     x = int(input())
-    update(i, data[i], x)
-    data[i] = x
+    update(1, 0, (1 << (h - 1)) - 1, i, x)
 
 for i in range(m + k):
     a, b, c = map(int, input().split())
-    print(tree)
     if a == 1:
-        update(b, data[b], c)
+        update(1, 0, (1 << (h - 1)) - 1, b - 1, c)
     elif a == 2:
-        print(prefix_mul(c)/prefix_mul(b - 1))
+        print(query(1, 0, (1 << (h - 1)) - 1, b - 1, c - 1))
