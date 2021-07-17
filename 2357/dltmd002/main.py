@@ -1,4 +1,5 @@
 import sys
+input = sys.stdin.readline
 from math import *
 
 n, m = map(int, input().split())
@@ -13,7 +14,6 @@ for i in range(n):
     c = int(input())
     init_min[i] = c
     init_max[i] = c
-
 
 
 def min_init(node, start, end):
