@@ -23,7 +23,7 @@ for tb in range(t):
                     visited[min_q[0][1]] = True
                     heapq.heappop(min_q)
             else:
-                while max_q and visited[min_q[0][1]]:
+                while max_q and visited[max_q[0][1]]:
                     heapq.heappop(max_q)
                 if max_q:
                     visited[max_q[0][1]] = True
