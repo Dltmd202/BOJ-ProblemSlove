@@ -1,7 +1,16 @@
-a , b, c = map(int,input().split())
+from collections import defaultdict
+a, b, c = map(int, input().split())
 
-answer = 1
 
-for i in range(b):
-    answer = (answer * a) % c
-print(answer)
+def mul(a, b):
+    if b == 1:
+        return a % c
+    else:
+        temp = mul(a, b // 2)
+        if b % 2 == 0:
+            return temp * temp % c
+        else:
+            return temp * temp * a % c
+
+
+print(mul(a, b))
