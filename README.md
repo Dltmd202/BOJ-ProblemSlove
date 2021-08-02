@@ -32,6 +32,7 @@
 | 1260 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [python](./python/1260/main.py) | DFS, BFS |
 | 1305 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[광고](https://www.acmicpc.net/problem/1305) | [python](./python/1305/main.py) | KMP |
 | 1339 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[단어 수학](https://www.acmicpc.net/problem/1339) | [python](./python/1339/main.py) | 그리디 |
+| 2096 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[내려가기](https://www.acmicpc.net/problem/2096) | [python](./python/2096/main.py) | DP |
 
 
 
