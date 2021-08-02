@@ -1,4 +1,5 @@
-
+import sys
+sys.setrecursionlimit(int(1e5))
 
 data = []
 
