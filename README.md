@@ -22,7 +22,7 @@
 | 1149 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[RGB거리](https://www.acmicpc.net/problem/1149) | [python](./python/1149/main.py) | DP |
 | 1167 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[트리의 지름](https://www.acmicpc.net/problem/1167) | [python](./python/1167/main.py) | BFS |
 | 1181 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[단어 정렬](https://www.acmicpc.net/problem/1181) | [python](./python/1181/main.py) | 정렬 |
-| 1182 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[부분수열의 합](https://www.acmicpc.net/problem/1182) | [python](./python/1182/main.py) | 백트레킹 |
+| 1182 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[부분수열의 합](https://www.acmicpc.net/problem/1182) | [python](./python/1182/main.py) | 백트래킹 |
 | 1197 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[최소 패스닝 트리](https://www.acmicpc.net/problem/1197) | [python](./python/1197/main.py) | 크루스칼 |
 | 1202 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[보석 도둑](https://www.acmicpc.net/problem/1202) | [python](./python/1202/main.py) | 우선순위 큐 |
 | 1208 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [python](./python/1208/main.py) | 파라매트릭 서치 |
@@ -33,6 +33,7 @@
 | 1305 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[광고](https://www.acmicpc.net/problem/1305) | [python](./python/1305/main.py) | KMP |
 | 1339 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[단어 수학](https://www.acmicpc.net/problem/1339) | [python](./python/1339/main.py) | 그리디 |
 | 2096 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[내려가기](https://www.acmicpc.net/problem/2096) | [python](./python/2096/main.py) | DP |
+| 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 
 
 
@@ -40,7 +41,7 @@
 
 
 
-## Python
+## Python2
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat5273)](https://solved.ac/bat5273)
