@@ -33,6 +33,7 @@
 | 1305 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[광고](https://www.acmicpc.net/problem/1305) | [python](./python/1305/main.py) | KMP |
 | 1339 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[단어 수학](https://www.acmicpc.net/problem/1339) | [python](./python/1339/main.py) | 그리디 |
 | 2096 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[내려가기](https://www.acmicpc.net/problem/2096) | [python](./python/2096/main.py) | DP |
+| 2448 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [python](./python/2448/main.py) | 재귀호출 |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 
 
