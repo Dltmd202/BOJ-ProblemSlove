@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/mac/Documents/BOJ-ProblemSlove/1504/1504-c++ Select CMakeLists.txt
