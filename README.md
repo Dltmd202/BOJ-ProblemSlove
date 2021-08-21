@@ -56,6 +56,7 @@
 | 1717 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[집합의 표현](https://www.acmicpc.net/problem/1717) | [python](./python/1717/main.py) | Disjoint set |
 | 2096 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[내려가기](https://www.acmicpc.net/problem/2096) | [python](./python/2096/main.py) | DP |
 | 2448| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [python](./python/2448/main.py) | 재귀호출 |
+| 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 
 
