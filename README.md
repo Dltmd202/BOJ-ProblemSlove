@@ -94,6 +94,7 @@
 | 2178 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[미로 탐색](https://www.acmicpc.net/problem/2178) | [python](./python/2178/main.py) | BFS |
 | 2448| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [python](./python/2448/main.py) | 재귀호출 |
 | 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
+| 4358 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[생태학](https://www.acmicpc.net/problem/4358) | [python](./python/4358/main.py), [Java](./Java/4358/src/Solution.java) | 해싱 |
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 
