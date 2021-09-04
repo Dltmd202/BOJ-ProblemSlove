@@ -96,6 +96,7 @@
 | 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
 | 4358 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[생태학](https://www.acmicpc.net/problem/4358) | [python](./python/4358/main.py), [Java](./Java/4358/src/Solution.java) | 해싱 |
 | 7785 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [python](./python/7785/main.py) | 문자열 |
+| 9092 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[Boggle](https://www.acmicpc.net/problem/9202) | [python](./python/9202/main.py) | Trie, DFS |
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
 | 14425 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[문자열 집합](https://www.acmicpc.net/problem/14425) | [python](./python/14425/main.py) | Trie |
 | 14725 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[개미굴](https://www.acmicpc.net/problem/14425) | [python](./python/14725/main.py) | Trie |
