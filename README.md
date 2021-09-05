@@ -11,6 +11,7 @@
 | 1012 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[유기농 배추](https://www.acmicpc.net/problem/1012) | [python](./python/1012/main.py)  | BFS |
 | 1016 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | [python](./python/1016/main.py) | 소수 |
 | 1018 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](./cpp/1018/main.cpp) | BFS |
+| 1029 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[그림 교환](https://www.acmicpc.net/problem/1029) | [python](./python/1029/main.py) | 비트마스킹, DP |
 | 1041 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[주사위](https://www.acmicpc.net/problem/1041) | [python](./python/1041/main.py) | 그리디 |
 | 1043 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[거짓말](https://www.acmicpc.net/problem/1043) | [python](./python/1043/main.py) | 분리집합 |
 | 1062 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[가르침](https://www.acmicpc.net/problem/1062) | [python](./python/1062/main.py) | 집합 |
