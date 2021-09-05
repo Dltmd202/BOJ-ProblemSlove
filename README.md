@@ -18,6 +18,7 @@
 | 1074 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[Z](https://www.acmicpc.net/problem/1074) | [python](./python/1074/main.py) | 분할 정복 |
 | 1080 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[행렬](https://www.acmicpc.net/problem/1080) | [python](./python/1080/main.py) | 그리디 |
 | 1092 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[배](https://www.acmicpc.net/problem/1092) | [python](./python/1092/main.py) | 그리디 |
+| 1102 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[발전소](https://www.acmicpc.net/problem/1102) | [python](./python/1102/main.py) | 비트 마스킹, DP |
 | 1107 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[리모컨](https://www.acmicpc.net/problem/1107) | [python](./python/1107/main.py) | 완전탐색 |
 | 1120 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[문자열](https://www.acmicpc.net/problem/1120) | [python](./python/1120/main.py) | 완전탐색 |
 | 1149 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[RGB거리](https://www.acmicpc.net/problem/1149) | [python](./python/1149/main.py) | DP |
