@@ -80,6 +80,7 @@
 | 1931 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[회의실 배정](https://www.acmicpc.net/problem/1931) | [python](./python/1931/main.py) | 그리디 |
 | 1932 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[정수 삼각형](https://www.acmicpc.net/problem/1932) | [python](./python/1932/main.py) | DP |
 | 1946 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[신입 사원](https://www.acmicpc.net/problem/1946) | [python](./python/1946/main.py) | 그리디 |
+| 1949 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[우수 마을](https://www.acmicpc.net/problem/1949) | [python](./python/1949/main.py) | DP, Tree |
 | 1958 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[LCS 3](https://www.acmicpc.net/problem/1958) | [python](./python/1958/main.py) | LCS |
 | 1967 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[트리의 지름](https://www.acmicpc.net/problem/1967) | [python](./python/1967/main.py) | BFS |
 | 1976 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[여행가자](https://www.acmicpc.net/problem/1976) | [python](./python/1976/main.py) | Disjoint Set |
