@@ -106,7 +106,8 @@
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
 | 14425 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[문자열 집합](https://www.acmicpc.net/problem/14425) | [python](./python/14425/main.py) | Trie |
 | 14427 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 15](https://www.acmicpc.net/problem/14427) | [python](./python/14427/main.py) | 세그먼트 트리 |
-| 14428 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 16](https://www.acmicpc.net/problem/14428) | [python](./python/14427/main.py) | 세그먼트 트리 |
+| 14428 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 16](https://www.acmicpc.net/problem/14428) | [python](./python/14428/main.py) | 세그먼트 트리 |
+| 14438 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | [python](./python/14438/main.py) | 세그먼트 트리 |
 | 14725 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[개미굴](https://www.acmicpc.net/problem/14425) | [python](./python/14725/main.py) | Trie |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 
