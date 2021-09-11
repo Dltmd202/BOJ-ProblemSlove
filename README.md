@@ -39,6 +39,7 @@
 | 1339 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[단어 수학](https://www.acmicpc.net/problem/1339) | [python](./python/1339/main.py) | 그리디 |
 | 1343 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[폴리오미노](https://www.acmicpc.net/problem/1343) | [python](./python/1343/main.py) | 그리디 |
 | 1389 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [python](./python/1389/main.py) | 플로이드 와샬 |
+| 1406 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[에디터](https://www.acmicpc.net/problem/1406) | [python](./python/1406/main.py) | 스택 |
 | 1427 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[소트인사이드](https://www.acmicpc.net/problem/1427) | [python](./python/1427/main.py) | 문자열 |
 | 1436 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[영화감독 숌](https://www.acmicpc.net/problem/1436) | [python](./python/1436/main.py) | 프루트 포스 |
 | 1439 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[뒤집기](https://www.acmicpc.net/problem/1439) | [python](./python/1439/main.py) | 그리디 |
