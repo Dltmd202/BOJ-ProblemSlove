@@ -60,6 +60,7 @@
 | 1700 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [python](./python/1700/main.py) | 그리디 |
 | 1715 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [python](./python/1715/main.py) | 그리디 |
 | 1717 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[집합의 표현](https://www.acmicpc.net/problem/1717) | [python](./python/1717/main.py) | Disjoint set |
+| 1725 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[히스토그램](https://www.acmicpc.net/problem/1725) | [python](./python/1725/main.py) | DS |
 | 1744 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[수 묶기](https://www.acmicpc.net/problem/1744) | [python](./python/1744/main.py) | 그리디 |
 | 1747 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [python](./python/1747/main.py) | 에라토스테네스의 체 |
 | 1753 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[최단경로](https://www.acmicpc.net/problem/1753) | [python](./python/1753/main.py) | 다익스트라 |
