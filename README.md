@@ -71,6 +71,7 @@
 | 1781 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[컵라면](https://www.acmicpc.net/problem/1781) | [python](./python/1781/main.py) | Priority Queue |
 | 1783 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[병든 나이트](https://www.acmicpc.net/problem/1783) | [python](./python/1783/main.py) | 그리디 |
 | 1786 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[찾기](https://www.acmicpc.net/problem/1786) | [python](./python/1786/main.py) | KMP |
+| 1789 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[수들의 합](https://www.acmicpc.net/problem/1789) | [python](./python/1789/main.py) | 그리디 |
 | 1806 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[부분합](https://www.acmicpc.net/problem/1806) | [python](./python/1806/main.py) | 투 포인터 |
 | 1865 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[웜홀](https://www.acmicpc.net/problem/1865) | [python](./python/1865/main.py) | Bellman-Ford |
 | 1874 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[스택 수열](https://www.acmicpc.net/problem/1874) | [python](./python/1874/main.py) | Stack |
