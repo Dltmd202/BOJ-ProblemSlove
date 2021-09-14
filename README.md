@@ -103,6 +103,7 @@
 | 2166 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[다각형의 면적](https://www.acmicpc.net/problem/2166) | [python](./python/2166/main.py) | 기하 |
 | 2169 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[로봇 조종하기](https://www.acmicpc.net/problem/2169) | [python](./python/2169/main.py) | DP |
 | 2178 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[미로 탐색](https://www.acmicpc.net/problem/2178) | [python](./python/2178/main.py) | BFS |
+| 2268 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수들의 합](https://www.acmicpc.net/problem/2268) | [python](./python/2268/main.py), [Java](./Java/2268/src/Main.java)  | BFS |
 | 2448| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [python](./python/2448/main.py) | 재귀호출 |
 | 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
 | 3197 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[백조의 호수](https://www.acmicpc.net/problem/3197) | [python](./python/3197/main.py) | 분할 BFS |

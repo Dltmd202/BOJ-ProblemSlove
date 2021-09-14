@@ -2,52 +2,38 @@ import sys
 input = sys.stdin.readline
 
 
-class Node:
-    def __init__(self, start, end):
-        self.start, self.end = start, end
-        self._left, self._right = None, None
-        self.data = 0
+def query(start, end, node, left, right):
+    if right < start or end < left:
+        return 0
+    if left <= start and end <= right:
+        return tree[node]
+    mid = (start + end) // 2
+    left_ = query(start, mid, node * 2, left, right)
+    right_ = query(mid + 1, end, node * 2 + 1, left, right)
+    return left_ + right_
 
-    @property
-    def mid(self):
-        return (self.start + self.end) // 2
 
-    @property
-    def left(self):
-        self._left = self._left or Node(self.start, self.mid)
-        return self._left
-
-    @property
-    def right(self):
-        self._right = self._right or Node(self.mid +  1, self.end)
-        return self._right
-
-    def query(self, left, right):
-        if left <= self.start and self.end <= right:
-            return self.data
-        if self.end < left or right < self.start:
-            return 0
-        left_ = self.left.query(left, right)
-        right_ = self.right.query(left, right)
-        return left_ + right_
-
-    def update(self, idx, diff):
-        if idx < self.start or self.end < idx:
-            return
-        self.data += diff
-        if not self.start == self.end:
-            self.left.update(idx, diff)
-            self.right.update(idx, diff)
+def update(start, end, node, idx, val):
+    if idx < start or end < idx:
+        return tree[node]
+    if start == end:
+        tree[node] = val
+        return tree[node]
+    mid = (start + end) // 2
+    left_ = update(start, mid, node * 2, idx, val)
+    right_ = update(mid + 1, end, node * 2 + 1, idx, val)
+    tree[node] = (left_ + right_)
+    return left_ + right_
 
 
 n, m = map(int, input().split())
-tree = Node(1, n)
-data = [0] * (n + 1)
+tree = [0] * (n * 4)
+ans = []
 for i in range(m):
     order, *args = map(int, input().split())
     if order == 0:
-        print(tree.query(args[0], args[1]))
-    elif order == 1 and data[args[0]] != args[1]:
-        diff = args[1] - data[args[0]]
-        tree.update(idx=args[0], diff=diff)
-        data[args[0]] = args[1]
+        ans.append(query(1, n, 1, min(args), max(args)))
+    elif order == 1:
+        update(1, n, 1, args[0], args[1])
+
+print('\n'.join(str(r) for r in ans))
