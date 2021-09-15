@@ -113,6 +113,7 @@
 | 7785 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [python](./python/7785/main.py) | 문자열 |
 | 9093 | ![B1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [python](./python/9093/main.py) | DS |
 | 9202 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[Boggle](https://www.acmicpc.net/problem/9202) | [python](./python/9202/main.py) | Trie, DFS |
+| 10999 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | [python](./python/10999/main.py) | segment, lazy |
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
 | 14425 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[문자열 집합](https://www.acmicpc.net/problem/14425) | [python](./python/14425/main.py) | Trie |
 | 14427 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 15](https://www.acmicpc.net/problem/14427) | [python](./python/14427/main.py) | 세그먼트 트리 |
