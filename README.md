@@ -76,6 +76,7 @@
 | 1865 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[웜홀](https://www.acmicpc.net/problem/1865) | [python](./python/1865/main.py) | Bellman-Ford |
 | 1874 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[스택 수열](https://www.acmicpc.net/problem/1874) | [python](./python/1874/main.py) | Stack |
 | 1893 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[시저 암호](https://www.acmicpc.net/problem/1893) | [python](./python/1893/main.py), [cpp](./cpp/1893/main.cpp) | KMP|
+| 1911 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[흙길 보수하기](https://www.acmicpc.net/problem/1911) | [Java](./Java/1911/src/Main.java) | Greedy |
 | 1912 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[연속합](https://www.acmicpc.net/problem/1912) | [python](./python/1912/main.py) | DP |
 | 1916 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[최소비용 구하기](https://www.acmicpc.net/problem/1916) | [python](./python/1916/main.py) | 다익스트라 |
 | 1920 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[수 찾기](https://www.acmicpc.net/problem/1920) | [python](./python/1920/main.py) | 이분 탐색 |
