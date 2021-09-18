@@ -104,16 +104,44 @@
 | 2164 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[카드2](https://www.acmicpc.net/problem/2164) | [python](./python/2164/main.py) | Queue |
 | 2166 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[다각형의 면적](https://www.acmicpc.net/problem/2166) | [python](./python/2166/main.py) | 기하 |
 | 2169 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[로봇 조종하기](https://www.acmicpc.net/problem/2169) | [python](./python/2169/main.py) | DP |
-| 2178 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[미로 탐색](https://www.acmicpc.net/problem/2178) | [python](./python/2178/main.py) | BFS |
+| 2178 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[미로 탐색](https://www.acmicpc.net/problem/2178) | [python](./python/2178/main.py) | BFS |
+| 2193 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[이친수](https://www.acmicpc.net/problem/2193) | [python](./python/2193/main.py) | DP |
+| 2206 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [python](./python/2206/main.py) | BFS |
+| 2212 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[센서](https://www.acmicpc.net/problem/2212) | [python](./python/2212/main.py) | Greedy |
+| 2217 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[로프](https://www.acmicpc.net/problem/2217) | [python](./python/2217/main.py) | Greedy |
+| 2252 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[줄 세우기](https://www.acmicpc.net/problem/2252) | [python](./python/2252/main.py) | Topology sort |
+| 2263 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[트리의 순회](https://www.acmicpc.net/problem/2263) | [python](./python/2263/main.py) | Divide and Conquer |
 | 2268 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수들의 합](https://www.acmicpc.net/problem/2268) | [python](./python/2268/main.py), [Java](./Java/2268/src/Main.java)  | BFS |
+| 2357 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [python](./python/2357/main.py)  | Segment Tree |
+| 2407 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[조합](https://www.acmicpc.net/problem/2407) | [python](./python/2407/main.py)  | DP |
+| 2437 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[저울](https://www.acmicpc.net/problem/2437) | [python](./python/2437/main.py)  | Greedy |
 | 2448| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [python](./python/2448/main.py) | 재귀호출 |
+| 2457| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[전깃줄](https://www.acmicpc.net/problem/2457) | [python](./python/2457/main.py) | Greedy |
+| 2458| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[키 순서](https://www.acmicpc.net/problem/2458) | [python](./python/2458/main.py) | Floyd Warshall  |
+| 2467| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[용액](https://www.acmicpc.net/problem/2467) | [python](./python/2467/main.py) | Two pointer |
+| 2468| ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[안전 영역](https://www.acmicpc.net/problem/2468) | [python](./python/2468/main.py) | BFS |
+| 2473| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[세 용액](https://www.acmicpc.net/problem/2473) | [python](./python/2473/main.py) | Two pointer |
+| 2565| ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[전깃줄](https://www.acmicpc.net/problem/2565) | [python](./python/2565/main.py) | DP |
+| 2573| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[빙산](https://www.acmicpc.net/problem/2573) | [python](./python/2573/main.py) | BFS |
+| 2579| ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[계단 오르기](https://www.acmicpc.net/problem/2579) | [python](./python/2579/main.py) | DP |
+| 2581| ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[소수](https://www.acmicpc.net/problem/2581) | [python](./python/2581/main.py) | number theory |
+| 2583| ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[영역 구하기](https://www.acmicpc.net/problem/2583) | [python](./python/2583/main.py) | BFS |
+| 2606| ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[바이러스](https://www.acmicpc.net/problem/2606) | [python](./python/2606/main.py) | BFS |
+| 2623| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[음악프로그램](https://www.acmicpc.net/problem/2623) | [python](./python/2623/main.py) | Topology Sort |
+| 2630| ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[색종이 만들기](https://www.acmicpc.net/problem/2630) | [python](./python/2630/main.py) | Divide and Conquer |
 | 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
+| 2667 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[단지번호붙이기](https://www.acmicpc.net/problem/2667) | [python](./python/2667/main.py) | BFS |
+| 2749 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[피보나치 수 3](https://www.acmicpc.net/problem/2749) | [python](./python/2749/main.py) | Divide and Conquer |
+| 2805 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[나무 자르기](https://www.acmicpc.net/problem/2805) | [python](./python/2805/main.py) | Parametric search |
+| 2812 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[크게 만들기](https://www.acmicpc.net/problem/2812) | [python](./python/2812/main.py) | Stack |
+| 2847 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [python](./python/2847/main.py) | Greedy |
+| 2887 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[행성 터널](https://www.acmicpc.net/problem/2887) | [python](./python/2887/main.py) | Kruskal |
+| 2981 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[검문](https://www.acmicpc.net/problem/2981) | [python](./python/2981/main.py) | Number Theory |
 | 3197 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[백조의 호수](https://www.acmicpc.net/problem/3197) | [python](./python/3197/main.py) | 분할 BFS |
 | 4358 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[생태학](https://www.acmicpc.net/problem/4358) | [python](./python/4358/main.py), [Java](./Java/4358/src/Solution.java) | 해싱 |
 | 5676 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[음주 코딩](https://www.acmicpc.net/problem/5676) | [python](./python/5676/main.py) | 펜윅트리 |
 | 6549 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [python](./python/6549/main.py) | DS - stack |
 | 7785 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [python](./python/7785/main.py) | 문자열 |
-| 9093 | ![B1](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg)|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [python](./python/9093/main.py) | DS |
 | 9202 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[Boggle](https://www.acmicpc.net/problem/9202) | [python](./python/9202/main.py) | Trie, DFS |
 | 10999 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | [python](./python/10999/main.py) | segment, lazy |
 | 12844 | ![P3](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg)|[XOR](https://www.acmicpc.net/problem/12844) | [python](./python/12844/main.py) | segment, lazy |
