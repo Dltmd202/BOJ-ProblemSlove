@@ -143,6 +143,7 @@
 | 6549 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [python](./python/6549/main.py) | DS - stack |
 | 7785 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [python](./python/7785/main.py) | 문자열 |
 | 9202 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[Boggle](https://www.acmicpc.net/problem/9202) | [python](./python/9202/main.py) | Trie, DFS |
+| 10815 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[숫자 카드](https://www.acmicpc.net/problem/10815) | [Java](./Java/10815/src/Main.java) | DS |
 | 10999 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | [python](./python/10999/main.py) | segment, lazy |
 | 12844 | ![P3](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg)|[XOR](https://www.acmicpc.net/problem/12844) | [python](./python/12844/main.py) | segment, lazy |
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
