@@ -91,7 +91,8 @@
 | 1976 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[여행가자](https://www.acmicpc.net/problem/1976) | [python](./python/1976/main.py) | Disjoint Set |
 | 1987 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[알파벳](https://www.acmicpc.net/problem/1987) | [python](./python/1987/main.py) | DFS |
 | 1992 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[쿼드트리](https://www.acmicpc.net/problem/1992) | [python](./python/1992/main.py) | 분할 정복 |
-| 2003 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[수들의 합 2](https://www.acmicpc.net/problem/2003) | [python](./python/2003/main.py) | 투 포인터 |
+| 2003 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[수들의 합 2](https://www.acmicpc.net/problem/2003) | [python](./python/2003/main.py) | 투 포인터 |
+| 2004 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[조합 0의 개수](https://www.acmicpc.net/problem/2004) | [Java](./Java/2004/src/Main.java) | 정수론 |
 | 2042 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[구간 합 구하기](https://www.acmicpc.net/problem/2042) | [python](./python/2042/main.py) | 세그먼트 트리 |
 | 2056 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[작업](https://www.acmicpc.net/problem/2056) | [python](./python/2056/main.py) | 위상 정렬 |
 | 2086 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[피보나치 수의 합](https://www.acmicpc.net/problem/2086) | [python](./python/2086/main.py) | 반복제곱법 |
