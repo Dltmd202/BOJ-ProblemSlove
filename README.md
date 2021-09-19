@@ -88,6 +88,7 @@
 | 1949 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[우수 마을](https://www.acmicpc.net/problem/1949) | [python](./python/1949/main.py) | DP, Tree |
 | 1958 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[LCS 3](https://www.acmicpc.net/problem/1958) | [python](./python/1958/main.py) | LCS |
 | 1967 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[트리의 지름](https://www.acmicpc.net/problem/1967) | [python](./python/1967/main.py) | BFS |
+| 1969 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[DNA](https://www.acmicpc.net/problem/1969) | [python](./python/1969/main.py) | Brute Force |
 | 1976 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[여행가자](https://www.acmicpc.net/problem/1976) | [python](./python/1976/main.py) | Disjoint Set |
 | 1987 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[알파벳](https://www.acmicpc.net/problem/1987) | [python](./python/1987/main.py) | DFS |
 | 1992 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[쿼드트리](https://www.acmicpc.net/problem/1992) | [python](./python/1992/main.py) | 분할 정복 |
