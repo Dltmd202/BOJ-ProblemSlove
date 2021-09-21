@@ -156,6 +156,7 @@
 | 14438 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | [python](./python/14438/main.py) | 세그먼트 트리 |
 | 14725 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[개미굴](https://www.acmicpc.net/problem/14425) | [python](./python/14725/main.py) | Trie |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
+| 15686 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[치킨 배달](https://www.acmicpc.net/problem/15686) | [python](./python/15686/main.py) | Brute Forc |
 | 16975 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[수열과 쿼리 21](https://www.acmicpc.net/problem/16975) | [python](./python/16975/main.py) | segment, lazy |
 
 
