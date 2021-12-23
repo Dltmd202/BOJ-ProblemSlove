@@ -59,6 +59,7 @@
 | 1697 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[숨박꼭질](https://www.acmicpc.net/problem/1697) | [python](./python/1697/main.py) | BFS |
 | 1699 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[제곱수의 합](https://www.acmicpc.net/problem/1699) | [python](./python/1699/main.py) | DP |
 | 1700 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [python](./python/1700/main.py) | 그리디 |
+| 1707 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[이분 그래프](https://www.acmicpc.net/problem/1707) | [python](./python/1707/main.py) | BFS |
 | 1715 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [python](./python/1715/main.py) | 그리디 |
 | 1717 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[집합의 표현](https://www.acmicpc.net/problem/1717) | [python](./python/1717/main.py) | Disjoint set |
 | 1725 | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg)|[히스토그램](https://www.acmicpc.net/problem/1725) | [python](./python/1725/main.py) | DS |
