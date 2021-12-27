@@ -247,6 +247,7 @@
 | 14427 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 15](https://www.acmicpc.net/problem/14427) | [python](./python/14427/main.py) | 세그먼트 트리 |
 | 14428 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 16](https://www.acmicpc.net/problem/14428) | [python](./python/14428/main.py) | 세그먼트 트리 |
 | 14438 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | [python](./python/14438/main.py) | 세그먼트 트리 |
+| 14466 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14438) | [Java](./Java/14466/src/Main.java) | BFS |
 | 14490 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[백대열](https://www.acmicpc.net/problem/14490) | [python](./python/14490/main.py) | Euclidean |
 | 14500 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[테트로미노](https://www.acmicpc.net/problem/14500) | [python](./python/14500/main.py) | Brute Force |
 | 14501 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[퇴사](https://www.acmicpc.net/problem/14501) | [python](./python/14501/main.py) | DP |
