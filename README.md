@@ -12,6 +12,7 @@
 | 1016 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | [python](./python/1016/main.py) | 소수 |
 | 1018 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](./cpp/1018/main.cpp) | BFS |
 | 1021 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[회전하는 큐](https://www.acmicpc.net/problem/1021) | [python](./python/1021/main.py) | Queue |
+| 1024 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[수열의 합](https://www.acmicpc.net/problem/1024) | [Java](./Java/1024/src/Main.java) | Greedy |
 | 1029 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[그림 교환](https://www.acmicpc.net/problem/1029) | [python](./python/1029/main.py) | 비트마스킹, DP |
 | 1033 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[칵테일](https://www.acmicpc.net/problem/1033) | [python](./python/1033/main.py) | 정수론, 그래프 |
 | 1041 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[주사위](https://www.acmicpc.net/problem/1041) | [python](./python/1041/main.py) | 그리디 |
