@@ -193,7 +193,7 @@
 | 9466 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[텀 프로젝트](https://www.acmicpc.net/problem/9466) | [python](./python/9466/main.py) | DPS |
 | 9663 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[N-Queen](https://www.acmicpc.net/problem/9663) | [python](./python/9663/main.py) | Back Tracking |
 | 9935 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[문자열 폭발](https://www.acmicpc.net/problem/9935) | [python](./python/9935/main.py) | DS - Stack |
-| 10021 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[Watering the Fields](https://www.acmicpc.net/problem/10021) | [Java](./Java/10021/src/Main.java) | Kruskal |
+| 10021 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[Watering the Fields](https://www.acmicpc.net/problem/10021) | [Java](./Java/10021/src/Main.java), [python](./python/10021/main.py) | Kruskal |
 | 10026 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[적록색약](https://www.acmicpc.net/problem/10026) | [python](./python/10026/main.py) | DPS |
 | 10159 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[저울](https://www.acmicpc.net/problem/10159) | [python](./python/10159/main.py) | Floyd Warshall |
 | 10216 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[Count Circle Groups](https://www.acmicpc.net/problem/10216) | [python](./python/10216/main.py) | DFS |
