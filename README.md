@@ -71,6 +71,7 @@
 | 1759 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[암호 만들기](https://www.acmicpc.net/problem/1759) | [python](./python/1759/main.py) | 백트래킹 |
 | 1764 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[듣보잡](https://www.acmicpc.net/problem/1764) | [python](./python/1764/main.py) | 문자열 |
 | 1766 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[문제집](https://www.acmicpc.net/problem/1766) | [python](./python/1766/main.py) | 위상 정렬 |
+| 1774 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[우주신과의 교감](https://www.acmicpc.net/problem/1774) | [Java](./Java/1774/src/Main.java) | Kruskal |
 | 1780 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[종이의 개수](https://www.acmicpc.net/problem/1780) | [python](./python/1780/main.py) | 분할 정복 |
 | 1781 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[컵라면](https://www.acmicpc.net/problem/1781) | [python](./python/1781/main.py) | Priority Queue |
 | 1783 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[병든 나이트](https://www.acmicpc.net/problem/1783) | [python](./python/1783/main.py) | 그리디 |
