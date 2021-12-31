@@ -136,6 +136,7 @@
 | 2623| ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[음악프로그램](https://www.acmicpc.net/problem/2623) | [python](./python/2623/main.py) | Topology Sort |
 | 2630| ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[색종이 만들기](https://www.acmicpc.net/problem/2630) | [python](./python/2630/main.py) | Divide and Conquer |
 | 2638 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[치즈](https://www.acmicpc.net/problem/2638) | [python](./python/2638/main.py) | BFS |
+| 2661 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[좋은수열](https://www.acmicpc.net/problem/2638) | [Java](./Java/2661/src/Main.java) | BackTracking |
 | 1644 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[촌수계산촌수계산](https://www.acmicpc.net/problem/2644) | [python](./python/2644/main.py) | BFS |
 | 2667 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[단지번호붙이기](https://www.acmicpc.net/problem/2667) | [python](./python/2667/main.py) | BFS |
 | 2749 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[피보나치 수 3](https://www.acmicpc.net/problem/2749) | [python](./python/2749/main.py) | Divide and Conquer |
