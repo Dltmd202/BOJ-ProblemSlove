@@ -214,6 +214,7 @@
 | 10866 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[덱](https://www.acmicpc.net/problem/10866) | [python](./python/10866/main.py) | DS - Deque |
 | 10868 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[최솟값](https://www.acmicpc.net/problem/10868) | [python](./python/10868/main.py) | segment Tree |
 | 10942 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[팰린드롬?](https://www.acmicpc.net/problem/10942) | [python](./python/10942/main.py) | DP |
+| 10974 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[모든 순열](https://www.acmicpc.net/problem/10974) | [Java](./Java/10974/src/Main.java) | BackTracking |
 | 10989 | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [python](./python/10989/main.py) | Sort |
 | 10999 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | [python](./python/10999/main.py) | segment, lazy |
 | 11047 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[동전 0](https://www.acmicpc.net/problem/11047) | [python](./python/11047/main.py) | Greedy |
