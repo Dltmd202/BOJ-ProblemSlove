@@ -263,6 +263,7 @@
 | 14621 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[나만 안되는 연애](https://www.acmicpc.net/problem/14621) | [python](./python/14621/main.py) | Kruskal |
 | 14725 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[개미굴](https://www.acmicpc.net/problem/14425) | [python](./python/14725/main.py) | Trie |
 | 15591 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[MooTube (Silver)](https://www.acmicpc.net/problem/14425) | [Java](./Java/15591/src/Main.java) | BFS |
+| 15655 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[N과 M (6)](https://www.acmicpc.net/problem/15655) | [Java](./Java/15655/src/Main.java) | BackTracking |
 | 15663 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (9)](https://www.acmicpc.net/problem/15663) | [python](./python/15663/main.py) | 백트래킹 |
 | 15666 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[N과 M (12)](https://www.acmicpc.net/problem/15666) | [python](./python/15666/main.py) | 백트래킹 |
 | 15684 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[사다리 조작](https://www.acmicpc.net/problem/15684) | [Java](./Java/15684/src/Main.java) | BackTracking |
