@@ -16,6 +16,7 @@
 | 1024 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[수열의 합](https://www.acmicpc.net/problem/1024) | [Java](./Java/1024/src/Main.java) | Greedy |
 | 1029 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[그림 교환](https://www.acmicpc.net/problem/1029) | [python](./python/1029/main.py) | 비트마스킹, DP |
 | 1033 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[칵테일](https://www.acmicpc.net/problem/1033) | [python](./python/1033/main.py) | 정수론, 그래프 |
+| 1038 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[감소하는 수](https://www.acmicpc.net/problem/1038) | [Java](./Java/1038/src/Main.java) | BackTracking |
 | 1041 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[주사위](https://www.acmicpc.net/problem/1041) | [python](./python/1041/main.py) | 그리디 |
 | 1043 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[거짓말](https://www.acmicpc.net/problem/1043) | [python](./python/1043/main.py) | 분리집합 |
 | 1062 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[가르침](https://www.acmicpc.net/problem/1062) | [python](./python/1062/main.py) | 집합 |
