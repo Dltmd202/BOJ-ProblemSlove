@@ -246,6 +246,7 @@
 | 11758 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[CCW](https://www.acmicpc.net/problem/11758) | [python](./python/11758/main.py) | Geometry |
 | 11779 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [python](./python/11779/main.py) | Dijkstra |
 | 11866 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [python](./python/11866/main.py) |  |
+| 12100 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[2048 (Easy)](https://www.acmicpc.net/problem/12100) | [Java](./Java/12100/src/Main.java) | BackTracking |
 | 12844 | ![P3](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg)|[XOR](https://www.acmicpc.net/problem/12844) | [python](./python/12844/main.py) | segment, lazy |
 | 12851 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [python](./python/12851/main.py) | BFS |
 | 12852 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[1로 만들기 2](https://www.acmicpc.net/problem/12852) | [python](./python/12852/main.py) |DP |
