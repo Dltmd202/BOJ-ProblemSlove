@@ -282,6 +282,7 @@
 | 16928 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [python](./python/16928/main.py) | BFS |
 | 16946 | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg)|[벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) | [python](./python/16946/main.py) | BFS |
 | 16953 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[A → B](https://www.acmicpc.net/problem/16953) | [python](./python/16953/main.py) | BFS |
+| 16967 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[배열 복원하기](https://www.acmicpc.net/problem/16967) | [Java](./Java/16967/src/Main.java) | Implementation |
 | 16975 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[수열과 쿼리 21](https://www.acmicpc.net/problem/16975) | [python](./python/16975/main.py) | segment, lazy |
 | 16991 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[외판원 순회 3](https://www.acmicpc.net/problem/16991) | [python](./python/16991/main.py) | TSP |
 | 17219 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [python](./python/17219/main.py) | DS - HashMap |
