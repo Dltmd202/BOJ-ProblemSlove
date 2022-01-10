@@ -255,6 +255,7 @@
 | 13305 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[주유소](https://www.acmicpc.net/problem/13305) | [python](./python/13305/main.py) | Greedy |
 | 13549 | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[숨바꼭질 3](https://www.acmicpc.net/problem/13549) | [python](./python/13549/main.py) | Dijkstra |
 | 13904 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[과제](https://www.acmicpc.net/problem/13904) | [python](./python/13904/main.py) | Greedy |
+| 14225 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)|[부분수열의 합](https://www.acmicpc.net/problem/114225) | [Java](./Java/14225/src/Main.java) | BruteForce |
 | 14425 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[문자열 집합](https://www.acmicpc.net/problem/14425) | [python](./python/14425/main.py) | Trie |
 | 14427 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 15](https://www.acmicpc.net/problem/14427) | [python](./python/14427/main.py) | 세그먼트 트리 |
 | 14428 | ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg)|[수열과 쿼리 16](https://www.acmicpc.net/problem/14428) | [python](./python/14428/main.py) | 세그먼트 트리 |
