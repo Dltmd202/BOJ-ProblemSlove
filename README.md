@@ -238,6 +238,7 @@
 | 11657 | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg)|[타임머신](https://www.acmicpc.net/problem/11657) | [python](./python/11657/main.py) | Bellman Ford |
 | 11659 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [python](./python/11659/main.py) | Prefix Sum |
 | 11660 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [python](./python/11660/main.py) | Prefix Sum |
+| 11722 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | [Java](./Java/11722/src/Main.java) | DP BruteForce |
 | 11724 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [python](./python/11724/main.py) | BFS |
 | 11725 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [python](./python/11725/main.py) | BFS |
 | 11726 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[2×n 타일링](https://www.acmicpc.net/problem/11726) | [python](./python/11726/main.py) | DP |
