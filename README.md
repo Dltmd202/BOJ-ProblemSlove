@@ -223,6 +223,7 @@
 | 10999 | ![P4](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | [python](./python/10999/main.py) | segment, lazy |
 | 11047 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[동전 0](https://www.acmicpc.net/problem/11047) | [python](./python/11047/main.py) | Greedy |
 | 11051 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[이항 계수 2](https://www.acmicpc.net/problem/11051) | [python](./python/11051/main.py) | DP |
+| 11052 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[카드 구매하기](https://www.acmicpc.net/problem/11052) | [Java](./Java/11052/src/Main.java) | DP BruteForce |
 | 11054 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [python](./python/11054/main.py) | DP |
 | 11055 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [python](./python/11055/main.py) | DP |
 | 11279 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[최대 힙](https://www.acmicpc.net/problem/11279) | [python](./python/11279/main.py) | DS - Priority Queue |
