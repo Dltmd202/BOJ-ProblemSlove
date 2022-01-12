@@ -294,7 +294,7 @@
 | 17626 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[Four Squares](https://www.acmicpc.net/problem/17626) | [python](./python/17626/main.py) | Brute Force |
 | 18111 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[마인크래프트](https://www.acmicpc.net/problem/18111) | [python](./python/18111/main.py) | Brute Force |
 | 18258 | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg)|[큐 2](https://www.acmicpc.net/problem/18258) | [python](./python/18258/main.py) | DS - Queue |
-| 18310 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[안테나](https://www.acmicpc.net/problem/18310) | [python](./python/18310/main.py) | Greedy |
+| 18310 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg)|[안테나](https://www.acmicpc.net/problem/18310) | [python](./python/18310/main.py), [Java](./Java/18310/src/Main.java) | Greedy |
 | 18353 | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)|[병사 배치하기](https://www.acmicpc.net/problem/18353) | [python](./python/18353/main.py) | DP |
 | 18405 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[경쟁적 전염](https://www.acmicpc.net/problem/18405) | [python](./python/18405/main.py) | BFS |
 | 18428 | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg)|[감시 피하기](https://www.acmicpc.net/problem/18428) | [python](./python/18428/main.py) | Brute Force |
