@@ -1,0 +1,30 @@
+# Created by .ignore support plugin (hsz.mobi)
+### VirtualEnv template
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+.DS_Store
+.idea
+
+python/*/*.iml
+
+*/.idea
+*/venv
+*/.DS_STORE
+/Java/*/*.iml
+/Java/*/out/*
+/Java/*/.idea/
+!main.py
+/tutorial/
+*/cmake-build-debug
+*/CMakeLists.txt
+out
