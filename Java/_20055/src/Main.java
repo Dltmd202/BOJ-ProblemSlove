@@ -23,7 +23,8 @@ public class Main {
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < 2 * N; i++) {
-            durability[i] = Integer.parseInt(st.nextToken());
+            durability[i] = Integer.parseInt(st.
+                    nextToken());
         }
 
         int turn = 0;
