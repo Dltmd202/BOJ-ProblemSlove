@@ -1,17 +1,17 @@
 def solution(n, tops):
     MOD = 10007
-
-    cache1 = [0] * (n + 1)
-    cache2 = [0] * (n + 1)
-    cache1[0] = 0
-    cache2[0] = 1
-
-    for i in range(1, n + 1):
-        cache1[i] = (cache1[i - 1] + cache2[i - 1]) % MOD
-
-        if tops[i - 1]:
-            cache2[i] = (2 * cache1[i - 1] + 3 * cache2[i - 1]) % MOD
+    a = [0] * (n + 1)
+    b = [0] * (n + 1)
+    a[0] = 0
+    b[0] = 1
+    for k in range(1, n + 1):
+        if tops[k - 1]:
+            a[k] = (a[k - 1] + b[k - 1]) % MOD
+            b[k] = (2 * a[k - 1] + 3 * b[k - 1]) % MOD
         else:
-            cache2[i] = (cache1[i - 1] + 2 * cache2[i - 1]) % MOD
+            a[k] = (a[k - 1] + b[k - 1]) % MOD
+            b[k] = (a[k - 1] + 2 * b[k - 1]) % MOD
 
-    return (cache1[n] + cache2[n]) % MOD
+    print(a)
+    print(b)
+    return (a[n] + b[n]) % MOD
