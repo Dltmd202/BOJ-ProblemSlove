@@ -1,13 +1,11 @@
-import collections
-
 if __name__ == '__main__':
-    N, K = map(int, input().split())
-    data = [int(input()) for _ in range(N)]
-    answer = 0
+    n, k = map(int, input().split())
+    coins = list(map(int, [input() for _ in range(n)]))
+    coins.sort(reverse=True)
 
-    for i in range(N -1, -1, -1):
-        cnt = K // data[i]
-        answer += cnt
-        K %= data[i]
-    
+    answer = 0
+    for coin in coins:
+        answer += k // coin
+        k %= coin
+
     print(answer)
