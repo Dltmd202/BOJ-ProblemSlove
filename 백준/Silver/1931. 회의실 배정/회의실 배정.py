@@ -1,18 +1,20 @@
+import sys
+
+input = sys.stdin.readline
+
 if __name__ == '__main__':
-    N = int(input())
-    data = [list(map(int, input().split())) for _ in range(N)]
+    n = int(input())
+    meetings = [tuple(map(int, input().split())) for _ in range(n)]
+    meetings.sort(key=lambda x: (x[1], x[0]))
 
-    data.sort(key=lambda x: (x[1], x[0]))
-    start, end = data[0][0], data[0][1]
-    answer = 1
+    # print(meetings)
 
-    for i in range(1, N):
-        ts, te = data[i][0], data[i][1]
+    answer = 0
+    cur = (0, 0)
 
-        if ts < end:
-            continue
+    for meeting in meetings:
+        if cur[1] <= meeting[0]:
+            cur = meeting
+            answer += 1
 
-        end = te
-        answer += 1
-    
     print(answer)
