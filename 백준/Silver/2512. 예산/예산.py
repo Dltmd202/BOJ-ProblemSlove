@@ -1,25 +1,21 @@
-if __name__ == '__main__':
-    N = int(input())
-    data = list(map(int, input().split()))
-    M = int(input())
+from collections import deque
 
-    left, right = 0, max(data)
+if __name__ == '__main__':
+    n = int(input())
+    data = deque(sorted(map(int, input().split())))
+    budget = int(input())
     answer = 0
 
-    def is_valid(target):
-        tmp = list(filter(lambda x: x < target, data))
-        res = sum(tmp)
-        res += target * (len(data) - len(tmp))
-        return res <= M
+    while data:
+        personal = budget // len(data)
+        d = data.popleft()
 
-    while left <= right:
-        mid = (left + right) // 2
-
-        if is_valid(mid):
-            answer = max(answer, mid)
-            left = mid + 1
+        if d < personal:
+            answer = d
+            budget -= answer
         else:
-            right = mid - 1
+            answer = personal
+            break
 
     print(answer)
 
